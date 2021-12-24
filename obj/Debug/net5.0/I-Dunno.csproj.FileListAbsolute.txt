@@ -1,0 +1,16 @@
+/home/runner/I-Dunno/bin/Debug/net5.0/I-Dunno
+/home/runner/I-Dunno/bin/Debug/net5.0/I-Dunno.deps.json
+/home/runner/I-Dunno/bin/Debug/net5.0/I-Dunno.runtimeconfig.json
+/home/runner/I-Dunno/bin/Debug/net5.0/I-Dunno.runtimeconfig.dev.json
+/home/runner/I-Dunno/bin/Debug/net5.0/I-Dunno.dll
+/home/runner/I-Dunno/bin/Debug/net5.0/ref/I-Dunno.dll
+/home/runner/I-Dunno/bin/Debug/net5.0/I-Dunno.pdb
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.csprojAssemblyReference.cache
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.AssemblyInfoInputs.cache
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.AssemblyInfo.cs
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.csproj.CoreCompileInputs.cache
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.dll
+/home/runner/I-Dunno/obj/Debug/net5.0/ref/I-Dunno.dll
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.pdb
+/home/runner/I-Dunno/obj/Debug/net5.0/I-Dunno.genruntimeconfig.cache
